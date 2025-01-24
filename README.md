@@ -10,7 +10,7 @@ leverage my diverse background to drive front-end excellence and product success
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">
-    <a href="https://kingsleyakwa.com/"><img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=react&logoColor=ffffff" height=22></a>
+    <a href="https://kingsleyakwa.tech/"><img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=react&logoColor=ffffff" height=22></a>
     <a href="https://www.linkedin.com/in/kingsleyakwa/"><img src="https://img.shields.io/badge/LinkedIn-0093dd?style=plastic&logo=linkedin" height=22></a>
     <a href="mailto:kingsleyakwa@gmail.com"><img src="https://img.shields.io/badge/Email-0093dd?style=plastic&logo=gmail&logoColor=ffffff" height=22></a>
     <a href="https://twitter.com/kingsley_akwa"><img src="https://img.shields.io/badge/Twitter-0093dd?&style=plastic&logo=twitter&logoColor=ffffff" height=22></a>
