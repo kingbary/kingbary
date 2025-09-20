@@ -4,8 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Kingsley+Akwa" alt="Typing SVG" />
 <br>
 
-Hi there 👋 I’m a Frontend developer, I am eager to contribute my expertise to dynamic teams, whether in innovative startups or established organizations, where I can
-leverage my diverse background to drive front-end excellence and product success.
+Hello! I’m Kingsley Akwa, a dedicated front-end engineer passionate about crafting exceptional web experiences. Specializing in Next.js and React, I have extensive hands-on experience with projects involving React, Redux, and TypeScript, including developing web-based chat platforms and dynamic admin panels.
+
+My expertise encompasses languages such as JavaScript, and TypeScript, focusing on technologies like ReactJS, NextJS, and AstroJS in web development. I love exploring new design concepts in my free time 😊
 
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
