@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Kingsley+Akwa" alt="Typing SVG" />
 <br>
 
-Software Engineer with a B.Eng in Mechanical Engineering and a passion for design-centric development. From architecting advertising platforms at Lohli to leading a frontend team in the fintech space at Itex Integrated Services Ltd, I specialise in building secure, high-performance web applications using React, React Native and Next.js.
+Software Engineer with a B.Eng in Mechanical Engineering and a passion for design-centric development. From architecting advertising platforms at Lohli to leading a frontend team in the fintech space at Itex Integrated Services Ltd, I specialise in building secure, high-performance web and mobile applications using React, React Native and Next.js.
 
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
